@@ -3,7 +3,7 @@ By entering in your grades from all four quarters, your midterm grade, and the g
 
 # Instructions
 
-1. Download a.exe to your desktop. This isn't a virus, I promise.
+1. Download a.exe to your desktop. You should be able to find this by looking above, clicking a.exe, and hitting the download button on the page it takes you to.
 2. Open command prompt. If you don't know how to do this, on Windows hit the Windows key & R at the same time and type in "cmd"; hit enter.
 3. Type in "cd Desktop". This should take you to where the file is located.
 4. type in a.exe
